@@ -1,6 +1,7 @@
 # Hi 👋, I'm Marcus Groth
 
 **`A passionate Full Stack Developer`**
+
 As a recent graduate with expertise in .NET and Vue.js, I have a solid foundation in full-stack development. My problem-solving skills help me tackle complex technical challenges effectively. I am dedicated to continuous learning and innovation, always striving to stay updated with the latest technological advancements.
 
 ### 🧰 Languages and Tools
