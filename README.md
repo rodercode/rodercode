@@ -4,6 +4,8 @@
 
 As a recent graduate with expertise in .NET and JavaScript, I have a solid foundation in Full-Stack Development. My passion lies in tackling complex problems and transforming them into clean, efficient solutions. I'm also dedicated to continuous learning and innovation, striving to stay updated with technological advancements.
 
+- 🔭 I’m currently working on [Palate Pilot](https://github.com/rodercode/PalatePilot)
+- 🌱 I’m currently learning **Pinia: https://pinia.vuejs.org/**
 ---
 
 ### 🧰 Languages and Tools
