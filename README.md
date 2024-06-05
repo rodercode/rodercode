@@ -2,7 +2,7 @@
 
 **`A passionate Full Stack Developer`**
 
-As a recent graduate with expertise in .NET and Vue.js, I have a solid foundation in full-stack development. My problem-solving skills help me tackle complex technical challenges effectively. I am dedicated to continuous learning and innovation, always striving to stay updated with the latest technological advancements.
+As a recent graduate with expertise in .NET and JavaScript, I have a solid foundation in Full-Stack Development. My passion lies in tackling complex problems and transforming them into clean, efficient solutions. I'm also dedicated to continuous learning and innovation, striving to stay updated with technological advancements.
 
 ---
 
