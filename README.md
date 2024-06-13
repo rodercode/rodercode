@@ -2,7 +2,7 @@
 
 **`A passionate Full Stack Developer`**
 
-Greetings! I am a recent graduate in software developement with a strong passion for technology and innovation. I am now seeking an exciting opportunity where I can use my skills and knowledge to contribute to your organization while growing as a professional software developer.
+I'm a passionate and dedicated software developer with expertise in both frontend and backend technologies. I'm eager to apply my skills and knowledge to real-world projects and collaborate with other developers to create innovative solutions.
 
 - 🔭 I’m currently working on [Palate Pilot](https://github.com/rodercode/PalatePilot)
 - 🌱 I’m currently learning **Pinia: https://pinia.vuejs.org/**
