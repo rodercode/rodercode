@@ -2,8 +2,6 @@
 
 **`A passionate Full Stack Developer`**
 
-I'm a passionate and dedicated software developer with expertise in both frontend and backend technologies. I'm eager to apply my skills and knowledge to real-world projects and collaborate with other developers to create innovative solutions.
-
 - 🔭 I’m currently working on [Palate Pilot](https://github.com/rodercode/PalatePilot)
 - 🌱 I’m currently learning **Pinia: https://pinia.vuejs.org/**
 ---
