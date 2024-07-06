@@ -21,7 +21,7 @@
 <h2> ⚒️ Languages-Frameworks-Tools ⚒️ </h2> 
 <br/>
 <div>
-    <img src="https://skillicons.dev/icons?i=csharp,java,typescript,javascript,css,html,python,.net,spring" />
+    <img src="https://skillicons.dev/icons?i=csharp,java,typescript,javascript,css,html,python,dotnet,spring" />
     <img src="https://skillicons.dev/icons?i=vue,bulma,tailwindcss,mysql,sqlserver,git,mongodb" /><br>
 </div>
 
