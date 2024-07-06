@@ -4,7 +4,7 @@
 
 <br/>
 
-<div algin="center">
+<div>
   
   🔭 I’m currently working on [Palate Pilot](https://github.com/rodercode/PalatePilot)
   
