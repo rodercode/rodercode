@@ -18,11 +18,10 @@
 
 <div>
   <a href="mailto:rodersnow@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="https://www.example.com" target="_blank">Visit Example.com</a>
   <a href="https://www.linkedin.com/in/groth-marcus" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </div>
 
