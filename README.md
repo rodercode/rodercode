@@ -1,4 +1,4 @@
-## Hi 👋, I'm Marcus Groth
+<h1> Hi 👋, I'm Marcus Groth </h1> 
 
 **`A passionate Software Developer from north of Sweden`**
 
