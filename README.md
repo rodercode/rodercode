@@ -1,6 +1,6 @@
 <h1> Hi 👋, I'm Marcus Groth </h1> 
 
-**`Northern Code Crusader: The Sage Begins`**
+**`I'm a developer ready to conquering new software tettitories!`**
 
 <br/>
 
