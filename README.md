@@ -1,11 +1,24 @@
 # Hi 👋, I'm Marcus Groth
 
-**`A passionate Full Stack Developer`**
+**`A passionate Software Developer from north of Sweden`**
 
 <br/>
 
+<div align="center">
+ 
+ 🔭 I’m currently working on [Palate Pilot](https://github.com/rodercode/PalatePilot) a fullstack food ordering app
+ 
+ 🌱 I’m currently learning **Pinia, ChatGPT, ASP.NET Core**
+
+💬 Ask me about **.NET, Vue.Js, Java ... or anything**
+
+⚡ Fun fact **Many developers claim their code is 90% coffee and 10% inspiration**
+
+ </div>
+
 - 🔭 I’m currently working on [Palate Pilot](https://github.com/rodercode/PalatePilot)
 - 🌱 I’m currently learning **Pinia: https://pinia.vuejs.org/**
+- 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
 ---
 
 ### 🧰 Languages and Tools
