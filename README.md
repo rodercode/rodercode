@@ -1,4 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 # Hi 👋, I'm Marcus Groth
 
 **`A passionate Full Stack Developer`**
