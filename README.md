@@ -1,51 +1,10 @@
-<h1 align="center">
-  Hi 👋, I'm Marcus Groth
-</h1>
+# Hi 👋, I'm Marcus Groth
 
-<h3 align="center">
-  **`A passionate Full Stack Developer`**
-</h3>
+**`A passionate Full Stack Developer`**
 
-<div align="center">
- 
-  🔭 I’m currently working on **[Palate Pilot](https://github.com/rodercode/PalatePilot)**
-  
-  🌱 I’m currently learning **Pinia, ChatGPT, Notion**
-  
-  💬 Ask me about **.NET, Vue.Js, Java... or anything**
-  
-  ⚡ Fun fact **Coffee Driven:** Many developers claims their code is 90% coffee and 10% inspiration
-
-</div>
-
-<div algin="center">
-  <a href="mailto:rodersnow@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />  
-  </a>
-  <a href="www.linkedin.com/in/groth-marcus">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-</div>
-
-<hr/>
-
-<h2 align="center"> 🧰 Languages and Tools </h2>
-<br/>
-<div algin="center">
-  <img src="https://skillicons.dev/icons?i=vue,bulmacss,html,css,vscode,github,figma,tailwind,git" />
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,c++,java,mysql" />"
-</div>
-
-<br/>
-<hr/>
-
-<div align="center">
-  <h2> My Contributions </h2>
-</div>
-
-
-
-
+- 🔭 I’m currently working on [Palate Pilot](https://github.com/rodercode/PalatePilot)
+- 🌱 I’m currently learning **Pinia: https://pinia.vuejs.org/**
+---
 
 ### 🧰 Languages and Tools
 
