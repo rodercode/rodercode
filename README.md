@@ -2,7 +2,9 @@
    Hi 👋, I'm Marcus Groth
  </h1>
 
- **`A passionate Software Developer from north of Sweden`**
+ <h3>
+   A passionate Software Developer from north of Sweden
+ </h3>
 
 
 <br/>
