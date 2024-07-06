@@ -18,7 +18,7 @@
 
 <hr/>
 
-### ⚒️ Languages-Frameworks-Tools ⚒️ </h2>
+### ⚒️ Languages-Frameworks-Tools ⚒️
 <br/>
 <div>
     <img src="https://skillicons.dev/icons?i=csharp,java,typescript,javascript,css,html,python,.net,spring" />
