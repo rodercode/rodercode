@@ -2,7 +2,7 @@
    Hi 👋, I'm Marcus Groth
  </h1>
 
- <h3>
+ <h3 align="center">
    A passionate Software Developer from north of Sweden
  </h3>
 
