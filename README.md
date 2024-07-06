@@ -2,6 +2,18 @@
 
 **`A passionate Full Stack Developer`**
 
+<div algin="center">
+  
+  🔭 I’m currently working on **[Palate Pilot](https://github.com/rodercode/PalatePilot)**
+  
+  🌱 I’m currently learning **Pinia, ChatGPT, Notion**
+  
+  💬 Ask me about **.NET/C#, Vue.Js ... or anything**
+  
+  ⚡ Fun fact **Many developers claim their code is 90% coffee and 10% inspiration**
+
+</div>
+
 - 🔭 I’m currently working on [Palate Pilot](https://github.com/rodercode/PalatePilot)
 - 🌱 I’m currently learning **Pinia: https://pinia.vuejs.org/**
 ---
