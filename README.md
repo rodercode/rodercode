@@ -1,12 +1,14 @@
-# Hi 👋, I'm Marcus Groth
+<div align="center">
+ # Hi 👋, I'm Marcus Groth
 
-**`A passionate Software Developer from north of Sweden`**
+ **`A passionate Software Developer from north of Sweden`**
+</div>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on [Palate Pilot](https://github.com/rodercode/PalatePilot) a fullstack food ordering app
+ 🔭 I’m currently working on **[Palate Pilot](https://github.com/rodercode/PalatePilot)**
  
  🌱 I’m currently learning **Pinia, ChatGPT, ASP.NET Core**
 
