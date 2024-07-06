@@ -1,6 +1,6 @@
 <h1> Hi 👋, I'm Marcus Groth </h1> 
 
-**`Building the Future, One Line at a Time`**
+**`A passionate Software Developer from north of Sweden`**
 
 <br/>
 
