@@ -1,6 +1,6 @@
 <h1> Hi 👋, I'm Marcus Groth </h1> 
 
-**`I'm a developer ready to conquering new software tettitories!`**
+**`Building the Future, One Line at a Time`**
 
 <br/>
 
