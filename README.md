@@ -22,5 +22,5 @@
 <br/>
 <div>
     <img src="https://skillicons.dev/icons?i=dotnet,java,javascript,python,spring,mysql" />
-    <img src="https://skillicons.dev/icons?i=css,html,vue,react,tailwindcss,git,vscode,ubuntu,notion" /><br>
+    <img src="https://skillicons.dev/icons?i=css,html,vue,react,tailwindcss,git" /><br>
 </div>
