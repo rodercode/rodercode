@@ -1,6 +1,6 @@
 <h1> Welcome to my profile page 👋</h1> 
 
-**`A passionate Software Developer from north of Sweden`**
+**`I'm a passionate Software Developer from north of Sweden`**
 
 <br/>
 
