@@ -16,8 +16,6 @@
 
 </div>
 
-<hr/>
-
 <h2> My skills includes </h2> 
 <br/>
 
