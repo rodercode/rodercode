@@ -2,8 +2,6 @@
 
 **`I'm a passionate Software Developer from north of Sweden`**
 
-<br/>
-
 <div>
   
   - 🔭 I’m currently working on [Palate Pilot](https://github.com/rodercode/PalatePilot)
