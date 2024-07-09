@@ -1,6 +1,6 @@
-<h1> Welcome to my profile page 👋</h1> 
+<h1> Hello there 👋 I'm Marcus Groth,</h1> 
 
-**`I'm a passionate Software Developer from north of Sweden`**
+**`A passionate Software Developer from north of Sweden`**
 
 <div>
   
