@@ -16,7 +16,7 @@
 
 </div>
 
-<h2> My skills includes </h2> 
+### My skills include
 <br/>
 
 <div>
