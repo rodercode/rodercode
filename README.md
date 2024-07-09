@@ -15,7 +15,6 @@
 </div>
 
 <br/>
-<br/>
 
 ### My skills include
 <div align="center">
