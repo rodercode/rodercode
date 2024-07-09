@@ -6,13 +6,13 @@
 
 <div>
   
-  🔭 I’m currently working on [Palate Pilot](https://github.com/rodercode/PalatePilot)
+  - 🔭 I’m currently working on [Palate Pilot](https://github.com/rodercode/PalatePilot)
   
-  🌱 I’m currently learning **Pinia, ChatGPT, Notion**
+  - 🌱 I’m currently learning **Pinia, ChatGPT, Notion**
   
-  💬 Ask me about **.NET/C#, Vue.Js ... or anything**
+  - 💬 Ask me about **.NET/C#, Vue.Js ... or anything**
   
-  ⚡ Fun fact **Many developers claim their code is 90% coffee and 10% inspiration**
+  - ⚡ Fun fact **Many developers claim their code is 90% coffee and 10% inspiration**
 
 </div>
 
