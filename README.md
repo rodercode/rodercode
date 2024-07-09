@@ -17,7 +17,7 @@
 ### My skills include
 <br/>
 
-<div>
+<div align="center">
     <img src="https://skillicons.dev/icons?i=dotnet,java,javascript,python,spring,mysql" />
     <img src="https://skillicons.dev/icons?i=css,html,vue,react,tailwindcss,git" /><br>
 </div>
